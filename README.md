@@ -1,5 +1,5 @@
 # Resumo do Lab  
-# Resumo da atividade do curso de preparo para prova Z900-Azure  
+# Resumo da atividade do curso de preparo para prova AZ-900 Certification
 
 ## Nuvem Pública  
 ### - Vem de provedoras como AWS e Azure  
