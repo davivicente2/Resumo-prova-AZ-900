@@ -1,6 +1,6 @@
 # resumo-do-lab
 #  Atividade do curso de preparo para prova Z900-Azure
-Resuno:
+# Resuno:
 nuvem publica
 	-Vem de provedoras como AWS e Azure
 	-Facilidade de expanção, serviços com facil acesso, Custo por uso
