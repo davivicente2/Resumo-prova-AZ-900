@@ -1,20 +1,23 @@
-#Resuno da atividade do curso de preparo para prova Z900-Azure:
+# Resumo do Lab  
+# Resumo da atividade do curso de preparo para prova Z900-Azure  
 
-##nuvem publica:
-	###-Vem de provedoras como AWS e Azure
-	###-Facilidade de expanção, serviços com facil acesso, Custo por uso
-##nuvem privada
-	###-É localizado fisicamente dentro da empresa
-	###-A empreza tem controle total de dados, recusos e segurança
-##nuvem hibrida
-	###-É localizado em ambos localmente quanto por provedoras
-	###-Maior flexibilidade, e gerencia de dados,custo e equipamentos
+## Nuvem Pública  
+### - Vem de provedoras como AWS e Azure  
+### - Facilidade de expansão, serviços com fácil acesso, custo por uso  
 
-#CapEx e OpEx:
-##Despesas Operacionais
+## Nuvem Privada  
+### - É localizada fisicamente dentro da empresa  
+### - A empresa tem controle total de dados, recursos e segurança  
 
-##CapEx: Gasto em infra
-  ###As despesas reduz com o decorrer do tempo (basicamente tem um custo alto para instalação, mas a manutenção é mais barata)
+## Nuvem Híbrida  
+### - É localizada tanto localmente quanto por provedoras  
+### - Maior flexibilidade e gerenciamento de dados, custo e equipamentos  
 
-##OpEx: Gaso sob demanda
-  ###As despesas são constantes, onde tudo que for usado será cobrado.
+# CapEx e OpEx  
+## Despesas Operacionais  
+
+## CapEx: Gasto em infraestrutura  
+### - As despesas reduzem com o decorrer do tempo (basicamente tem um custo alto para instalação, mas a manutenção é mais barata)  
+
+## OpEx: Gasto sob demanda  
+### - As despesas são constantes, onde tudo que for usado será cobrado  
