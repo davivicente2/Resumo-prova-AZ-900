@@ -54,3 +54,26 @@
 ## Gerenciabilidade
 ### 	Facilidade de uso.
 ### 	Pocibilidade de uso de codigos de automatização
+
+# Modelos de Serviço em Nuvem  
+
+## IaaS (Infraestrutura como Serviço)  
+Ambiente onde é gerido o bruto, como personalização do servidor, firewalls e manutenção.  
+- Serviço de nuvem mais flexível (é possível configurar e gerenciar o hardware necessário).  
+
+## PaaS (Plataforma como Serviço)  
+Ambiente onde apenas os serviços (ex: banco de dados, sistema operacional) são gerenciados, sem foco na infraestrutura.  
+- Focado no gerenciamento de aplicativos (a gestão da plataforma é responsabilidade do provedor de nuvem).  
+
+## SaaS (Software como Serviço)  
+Ambiente onde os aplicativos e softwares hospedados (Office, Teams, entre outros) são gerenciados, incluindo suas licenças.  
+- Modelo de pagamento sob demanda (os usuários pagam pelo software utilizado em um modelo de assinatura).  
+
+# Modelo de Responsabilidade Compartilhada  
+
+## Responsabilidades  
+
+- **Local:** Responsável por tudo.  
+- **IaaS:** Hosts físicos, rede física e datacenter físico são responsabilidades do fornecedor.  
+- **PaaS:** Mantém as responsabilidades do IaaS, adicionando a gestão do sistema operacional ao provedor e compartilhando a gestão de aplicativos, controle de rede e infraestrutura de identidade e diretório.  
+- **SaaS:** Mantém as responsabilidades do IaaS e do PaaS, sendo que apenas a infraestrutura de identidade e diretório é compartilhada.  
