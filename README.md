@@ -13,8 +13,7 @@
 - É localizada tanto localmente quanto por provedoras  
 - Maior flexibilidade e gerenciamento de dados, custo e equipamentos  
 
-# CapEx e OpEx  
-## Despesas Operacionais  
+# CapEx e OpEx (Despesas Operacionais)  
 
 ## CapEx: Gasto em infraestrutura  
 - As despesas reduzem com o decorrer do tempo (basicamente tem um custo alto para instalação, mas a manutenção é mais barata)  
