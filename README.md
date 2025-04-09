@@ -76,3 +76,24 @@ Ambiente onde os aplicativos e softwares hospedados (Office, Teams, entre outros
 - **IaaS:** Hosts físicos, rede física e datacenter físico são responsabilidades do fornecedor.  
 - **PaaS:** Mantém as responsabilidades do IaaS, adicionando a gestão do sistema operacional ao provedor e compartilhando a gestão de aplicativos, controle de rede e infraestrutura de identidade e diretório.  
 - **SaaS:** Mantém as responsabilidades do IaaS e do PaaS, sendo que apenas a infraestrutura de identidade e diretório é compartilhada.  
+
+# Regiões 
+-São compostas de um ou mais datacenters próximos (ideal será 3 para redundância).
+-Fornecem flexibilidade e escala para reduzir o delay.
+-Preço não tabelado cada região terá um custo por serviço que pode variar.
+-Existem recurso limitados por região devido quantidade usabilidade 
+
+## Pares e regiões
+-São zonas onde em caso de desatre recovery que venham afetar toda uma região, alguns serviços são migrados para outra região para evitar deixar o serviço fora do AR.
+
+## Regeões Soberanas
+-São regiões não disponiveis para o usuario comun, sendo utilizado principalmente para uso militar e governamental.
+-Acessivel somente para pessoal autorizado.
+-OBS 21 Vianet é a empresa que gerencia a Azure na China.
+
+## Recursos do Azure
+- Sào eles armazenamento, máquinas virtuais, ferramentas de rede, e outros disponíveis para criar soluções de nuvem.
+	### Grupo de Recursos
+	- É um agrupamento de recusos, com o intuito de formar um pacote organizado para atender um serviço/Projeto.
+	- Os recurso podem existir em apenas um grupo de recursos entretanto podem existir em difernetes regiões.
+
