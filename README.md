@@ -1,6 +1,9 @@
 # Resumo do Lab  
 # Resumo da atividade do curso de preparo para prova AZ-900 Certification
 
+![Grafico de responsabilidades](./Imagens/grafico-responsabilidades.png)
+
+
 ## Nuvem Pública  
 - Vem de provedoras como AWS e Azure  
 - Facilidade de expansão, serviços com fácil acesso, custo por uso  
@@ -12,6 +15,9 @@
 ## Nuvem Híbrida  
 - É localizada tanto localmente quanto por provedoras  
 - Maior flexibilidade e gerenciamento de dados, custo e equipamentos  
+
+![Beneficios por tipo de Nuvem](./Imagens/beneficios-nuvem.png)
+
 
 # CapEx e OpEx (Despesas Operacionais)  
 
