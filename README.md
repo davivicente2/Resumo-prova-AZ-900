@@ -97,33 +97,33 @@ Ambiente onde os aplicativos e softwares hospedados (Office, Teams, entre outros
 	- É um agrupamento de recusos, com o intuito de formar um pacote organizado para atender um serviço/Projeto.
 	- Os recurso podem existir em apenas um grupo de recursos entretanto podem existir em difernetes regiões.
 
-Computação em rede:
+## Computação em rede:
 
--Serviços de Computação Azure:
+### Serviços de Computação Azure:
    É um serviço sob demanda que fornece recursos de computação , como discos, processadores, memória, rede e sistemas operacionais.
-Maquinas virtuais Azure:
--Oferta de IaaS que oferece personalização e controle total.
--Inclui processador, memoria, armazenamento, etc...
-*Conjunto de dimensionamento de VMs 
-Oferece oportunidades de balanciamento de carga para dimensionar os recursos automaticamente.
-
--Funciona com series de racks para controle de falha, ou seja exite racks que compoem um conjunto de VM, 
+## Maquinas virtuais Azure:
+- Oferta de IaaS que oferece personalização e controle total.
+- Inclui processador, memoria, armazenamento, etc...
+### Conjunto de dimensionamento de VMs 
+   Oferece oportunidades de balanciamento de carga para dimensionar os recursos automaticamente.
+   
+- Funciona com series de racks para controle de falha, ou seja exite racks que compoem um conjunto de VM, 
 onde existem multiplos racks para redundancia.
--É dividido em Dominios de falha (em caso de alguma VM apresentar problema, será usada outro rack) e  Dominio de Atualização ( conjunto de VMs em sequencia para uso durante atualizações)
+- É dividido em Dominios de falha (em caso de alguma VM apresentar problema, será usada outro rack) e  Dominio de Atualização ( conjunto de VMs em sequencia para uso durante atualizações)
 
-*Area de trabalho virtual do Azure
-É uma virtualização de uma area de trabalho para execução de aplicações na nuvem.
--Reduz o risco de que o recurso seja deixado para trás.
--Implatações quqe atendam varias necessidades sem necessitar de uma maquina fisica.
+### Area de trabalho virtual do Azure
+   É uma virtualização de uma area de trabalho para execução de aplicações na nuvem.
+- Reduz o risco de que o recurso seja deixado para trás.
+- Implatações quqe atendam varias necessidades sem necessitar de uma maquina fisica.
 
-*Contêineres Azure:
-Ambiente vierualizado que não exige o gerenciamento do sistema operacional e pode responder a alteração sob demanda.
--Tem compatibilidade com docker
--Aplicativos de conteiners(Oferta PaaS que executa um conteiner ou pod de conteineres no azure).
--Serviço de kubernetes (Um serviço de orquestração para conteineres com arquitetura para conteiners com arquiteturas distribuidas e grandes volumes de conteiners.
--Funções (Oferece suporte [PaaS] a operações de computação sem servidor, o codigo baseado em eventos é executado quando chamado, sem exigir uma infraestrutura de servidor durante períodos inativos).
+### Contêineres Azure:
+   Ambiente vierualizado que não exige o gerenciamento do sistema operacional e pode responder a alteração sob demanda.
+- Tem compatibilidade com docker
+- Aplicativos de conteiners(Oferta PaaS que executa um conteiner ou pod de conteineres no azure).
+- Serviço de kubernetes (Um serviço de orquestração para conteineres com arquitetura para conteiners com arquiteturas distribuidas e grandes volumes de conteiners.
+- Funções (Oferece suporte [PaaS] a operações de computação sem servidor, o codigo baseado em eventos é executado quando chamado, sem exigir uma infraestrutura de servidor durante períodos inativos).
 
-Obs:
--Maquinas Virtuais (Servidor baseado em nuvem que dá suporte a ambientes linux ou windows. Util para migrações "lift-and-shift"[transfirir a VM completa para outro ambiente] para nuvem).
--Area de trabalho virtual (Permite logons de varios usuarios na mesma maquina ao mesmo tempo).
+## Obs:
+- Maquinas Virtuais (Servidor baseado em nuvem que dá suporte a ambientes linux ou windows. Util para migrações "lift-and-shift"[transfirir a VM completa para outro ambiente] para nuvem).
+- Area de trabalho virtual (Permite logons de varios usuarios na mesma maquina ao mesmo tempo).
 -Conteineres (ambiente leve que executa mini-services. projetado para escalabilidade [Kubernets]. Contem aplicativos e servsços empacotados em um conteiner que fica na parte superior do sistema operacional do host.
