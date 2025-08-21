@@ -21,10 +21,10 @@
 
 # CapEx e OpEx (Despesas Operacionais)  
 
-## CapEx: Gasto em infraestrutura  
+## CapEx (despesas de capital): Gasto em infraestrutura  
 - As despesas reduzem com o decorrer do tempo (basicamente tem um custo alto para instalação, mas a manutenção é mais barata)  
 
-## OpEx: Gasto sob demanda  
+## OpEx (despesas operacionais): Gasto sob demanda  
 - As despesas são constantes, onde tudo que for usado será cobrado  
 
 # Beneficios da nuvem:
